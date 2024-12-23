@@ -1,3 +1,5 @@
+//This is a comment for assignment 2
+
 /*!
  * Deepnest - Main Logic for Nesting Tool
  * 
